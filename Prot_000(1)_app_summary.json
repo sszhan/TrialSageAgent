@@ -1,0 +1,56 @@
+{
+  "study_objective": [
+    "This is a randomized, double-blind, placebo-controlled, multicenter, Phase 2 study of the efficacy and safety of E/P/A with trilaciclib or placebo therapy for patients with newly diagnosed extensive-stage SCLC.",
+    "Study G1T28-05 was originally designed as a Phase 2 clinical study to investigate if myelopreservation, ie, preservation of hematopoietic stem and progenitor cell (HSPC) and immune system function during chemotherapy, by trilaciclib could provide survival benefit to patients receiving a combination of cytotoxic chemotherapy and an immune checkpoint inhibitor."
+  ],
+  "inclusion_criteria": [
+    "Age \u226518 years",
+    "Unequivocally confirmed diagnosis of SCLC by histology or cytology, preferably including the presence of neuroendocrine features by immunohistochemistry",
+    "Extensive-stage SCLC",
+    "At least 1 target lesion that is measurable by RECIST v1.1 (Eisenhauer 2009)",
+    "Hemoglobin \u22659.0 g/dL",
+    "Absolute neutrophil count (ANC) \u22651.5 \u00d7 109/L",
+    "Platelet count \u2265100 \u00d7 109/L",
+    "Creatinine \u22641.5 mg/dL or glomerular filtration rate (GFR) of \u226560 mL/minute",
+    "Total bilirubin \u22641.5 \u00d7 ULN; < 3 \u00d7 ULN if the patient has documented Gilbert\u2019s disease",
+    "AST and ALT \u22642.5 \u00d7 ULN; \u22645 \u00d7 ULN in the presence of liver metastases",
+    "ECOG performance status of 0 to 2",
+    "Predicted life expectancy of \u22653 months",
+    "Contraception: For females: All females of childbearing potential must have a negative serum beta human chorionic gonadotropin (\u03b2-hCG) test result at screening. Females must be either postmenopausal, surgically sterile, or agree to use 2 forms of highly effective contraception during the study and for 6 months following discontinuation of study treatment",
+    "For males: Males must be surgically sterile or have a female partner who is either postmenopausal, surgically sterile, or using 2 forms of highly effective contraception as noted above.",
+    "Able to understand and sign an informed consent"
+  ],
+  "exclusion_criteria": [
+    "Limited-stage SCLC",
+    "Prior chemotherapy for limited or extensive-stage SCLC",
+    "Prior treatment with immunotherapies including but not limited to cluster of differentiation 137 (CD137) agonists or immune checkpoint blockade therapies (such as anti-PD-1, anti-PD-L1, CTLA4 therapeutic antibodies)",
+    "Presence of symptomatic brain metastases requiring immediate treatment with radiation therapy or steroids",
+    "Malignancies other than SCLC within 3 years prior to randomization, with the exception of those with a negligible risk of metastasis or death treated with expected curative outcome",
+    "History of idiopathic pulmonary fibrosis, organizing pneumonia, drug induced pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening chest CT scan (history of radiation pneumonitis in the radiation field [fibrosis] is permitted)",
+    "Active, known, or suspected autoimmune disease that has required systemic treatment in the past 2 years",
+    "Uncontrolled ischemic heart disease or uncontrolled symptomatic congestive heart failure (Class III or IV as defined by the New York Heart Association [NYHA] functional classification system)",
+    "Known history of stroke or cerebrovascular accident within 6 months prior to enrollment",
+    "Serious active infection at the time of enrollment",
+    "Psychiatric illness/social situations that would limit study compliance",
+    "Other uncontrolled serious chronic disease or conditions that in the investigator\u2019s opinion could affect compliance or follow-up in the protocol",
+    "Known human immunodeficiency virus (HIV), known active Hepatitis B or Hepatitis C",
+    "Radiotherapy to any site within 2 weeks prior to enrollment",
+    "Receipt of any investigational medication within 4 weeks prior to enrollment",
+    "Administration of a live attenuated vaccine within 4 weeks before enrollment or anticipation that such a live attenuated vaccine will be required during the study",
+    "Patients with a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration.",
+    "Hypersensitivity to any of the components of the formulation of etoposide or etoposide phosphate",
+    "Hypersensitivity to carboplatin or other platinum-containing compounds, or mannitol",
+    "History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies or fusion proteins",
+    "Known hypersensitivity to Chinese hamster ovary cell products or other recombinant human antibodies",
+    "Legal incapacity or limited legal capacity",
+    "Pregnant or lactating women"
+  ],
+  "primary_endpoints": [
+    "duration of severe (Grade 4) neutropenia in Cycle 1",
+    "occurrence of severe (Grade 4) neutropenia"
+  ],
+  "secondary_endpoints": [
+    "Overall survival",
+    "objective response and PFS (as assessed by RECIST version 1.1)"
+  ]
+}
